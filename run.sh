@@ -13,3 +13,6 @@ cmake ..
 
 # Build the project
 cmake --build . 
+
+# Make clean
+make clean
